@@ -1,0 +1,1 @@
+I created this project using html, css, and javascript. I wanted to have an easy way to look up new recipes for whenever I cook at home, so I decided to create this recipe app. 
