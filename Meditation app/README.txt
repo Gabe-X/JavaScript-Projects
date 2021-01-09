@@ -1,1 +1,1 @@
-This is a meditation application that I created using Javascript, html, and css. I used two of my favorite meditation songs for this app. I use this app everyday to enhance my mental well-being and just to relax. 
+This is a meditation application that I created using Javascript, html, and css. I used two of my favorite meditation songs for this app. I use this app to enhance my mental well-being and just to relax. 
