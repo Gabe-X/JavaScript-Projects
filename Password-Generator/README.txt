@@ -1,0 +1,1 @@
+I created this project using html,css, and javascript. Instead of using online password generators(which can be unsecure and unsafe), I use this local password generator whenever I need to register for an account. 
