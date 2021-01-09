@@ -1,0 +1,1 @@
+This is my project(a to-do list) that I created using javascript,html, and css. I made a to-do list in order to increase productivity when studying/working/shopping. 
