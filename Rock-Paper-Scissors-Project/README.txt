@@ -1,0 +1,1 @@
+I created this rock paper scissors game for entertainment purposes whenever the wifi at my house goes out. I created the game using javascript, html, and css. 
